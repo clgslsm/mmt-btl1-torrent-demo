@@ -1,0 +1,9 @@
+{
+  "a.jpg": {
+    "0": [
+      { "client": "Client C", "address": "http://localhost:5001" },
+      { "client": "Client A", "address": "http://localhost:5000" }
+    ],
+    "1": [{ "client": "Client A", "address": "http://localhost:5000" }]
+  }
+}
